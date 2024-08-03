@@ -22,3 +22,6 @@ Sprint Calendar offers even more to enhance your scheduling experience:
 - **Supports Multiple Date Formats:** Choose from four different date formats to suit your team’s preferences, accommodating global teams with varying date format standards.
 - **Comprehensive Schedule Copying:** Copy the entire sprint calendar in one click and paste it into emails, messages, or spreadsheets for seamless sharing sprint schedules via email, chat or spreadsheet.
 - **Share Calendar:** Copy the generated sprint schedule and share it with others by sending them the calendar URL.
+
+# Reporting Defects
+To report a defect, please send an email to info@apioncloud.com with the description of the defect
